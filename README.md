@@ -22,8 +22,8 @@ to disable:
     let g:loaded_nerdtree_plugin_localrc = 1
 
 ## nerdtree_open.vim
-open target node with appropriate application command such as 'xdg-open' , 'gnome-open' , 'open'(for MacOS)
-This plugin use Shougo's vimproc is instaled.
+open target node with appropriate application command such as 'xdg-open' , 'gnome-open' , 'open'(for MacOS) 
+This plugin use Shougo's vimproc if instaled.
 
 * [Shougo/vimproc](https://github.com/Shougo/vimproc)
 
