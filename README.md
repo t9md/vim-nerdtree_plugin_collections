@@ -14,7 +14,9 @@ to disable:
 
 ## nerdtree_localrc.vim
 thinca's localrc helper
+
 * [thinca/vim-localrc](git://github.com/thinca/vim-localrc.git)
+
 this plugin write .local.vimrc for specified directory
 
 to disable:
@@ -23,6 +25,7 @@ to disable:
 ## nerdtree_open.vim
 open target node with appropriate application command such as 'xdg-open' , 'gnome-open' , 'open'(for MacOS)
 This plugin use Shougo's vimproc is instaled.
+
 * [Shougo/vimproc](https://github.com/Shougo/vimproc.git)
 
 to disable:
@@ -30,6 +33,7 @@ to disable:
 
 ## nerdtree_unite.vim
 miscellaneous helper for Shougo's unite.vim
+
 * [Shougo/unite.vim](https://github.com/Shougo/unite.vim)
 
 to disable:
