@@ -62,6 +62,7 @@ This plugin is disabled by default.
 So to enable this plugin  
 
 first. install  
+
 * [t9md/vim-misc-experiment](https://github.com/t9md/vim-misc-experiment)
 
 then set:
