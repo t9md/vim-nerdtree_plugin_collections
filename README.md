@@ -54,14 +54,14 @@ to disable:
 
 ## nerdtree_easymove.vim
 
-C: change tree root to the selected dir with `l`
-u: move tree root up a dir with `h`
+C: change tree root to the selected dir with `l`  
+u: move tree root up a dir with `h`  
 
-This is very very experimental and dirty hack.
-This plugin is disabled by default.
-So to enable this plugin
+This is very very experimental and dirty hack.  
+This plugin is disabled by default.  
+So to enable this plugin  
 
-first. install
+first. install  
 * [t9md/vim-misc-experiment](https://github.com/t9md/vim-misc-experiment)
 
 then set:
