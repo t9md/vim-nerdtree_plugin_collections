@@ -8,9 +8,9 @@ let base = {
       \ 'quickhelpText': 'close nerd tree if open'
       \ }
 
-for key in ['H', '<F2>']
+for s:key in ['H', '<F2>']
   let k = copy(base)
-  let k.key  = key
+  let k[s:key]  = s:key
   call NERDTreeAddKeyMap(k)
 endfor
 
