@@ -1,7 +1,7 @@
 NERDtree plugin collections I use
 ==================================
-# This is my nerdtree collection of my personal preference
-And I'm not maintained to be helpfull for other developper currently.
+# This is my nerdtree plugin collection of my personal preference
+And I'm not maintained to be helpfull for other developper currently.  
 So, don't blame me if you use this collection as-is and its not fit your preference.
 
 ## local_mapping.vim
